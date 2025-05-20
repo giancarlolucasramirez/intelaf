@@ -20,7 +20,6 @@ const Main = () => {
       <Encuentra />
       <Banner2 />
       <Ubicacion />
-      <Conocer_Mas />
       
     </main>
   );
